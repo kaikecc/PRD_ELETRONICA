@@ -44,8 +44,7 @@
   
    
     
- <p align="center">
-  
+ <p align="center">  
  <b>Figura 3.</b>
  <a href="#">Resultados da regressão linear da calibração</a> 
  <br><br>
@@ -79,7 +78,7 @@
    
    
    
-  <p align="center">
+ <p align="center">
  <b>Figura 5.</b>
  <a href="#">Esquemático de ligações da célula com o arduino</a> 
  <br><br>
