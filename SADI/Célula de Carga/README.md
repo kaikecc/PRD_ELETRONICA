@@ -17,7 +17,7 @@
  <b>Figura 1.</b>
  <a href="#"> Célula de carga tipo Z</a> 
  <br><br>
-<img src="http://www.alfainstrumentos.com.br/wp-content/uploads/2016/07/Z-e-zx_pag.png" width="600" heigth="600"> 
+<img src="http://www.alfainstrumentos.com.br/wp-content/uploads/2016/07/Z-e-zx_pag.png" width="400" heigth="400"> 
 </p> 
    
  ###### Fonte: http://www.alfainstrumentos.com.br/produto/z-e-zx/
@@ -28,7 +28,7 @@
  <b>Figura 2.</b>
  <a href="#"> Driver HX711</a> 
  <br><br>
- <img src="http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg" width="600" heigth="600"> 
+ <img src="http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg" width="400" heigth="400"> 
  </p> 
 
  ###### Fonte: http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg
@@ -45,10 +45,11 @@
    
     
  <p align="center">
+  
  <b>Figura 3.</b>
  <a href="#">Resultados da regressão linear da calibração</a> 
  <br><br>
- <img src="https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/regressão%20lineaar%20dos%20valores.png" width="600" heigth="600"> 
+ <img src="https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/regressão%20lineaar%20dos%20valores.png" width="400" heigth="400"> 
  </p> 
    
  
