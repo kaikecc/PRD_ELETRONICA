@@ -12,18 +12,24 @@
    Na calibração, foi utilizado uma célula de carga tipo Z, Figura 1, e o driver HX711, Figura 2, para realizar as medições através de um arduino. O equipamente usado para comprensão da célula de carga foi um prensa encontrada no laboratório de metais e ensaios mecânicos da Universiade Federal do Rio Grande do Norte (UFRN), em que foi solicitados 10 esforços de 0kg à 200kg e gerado uma tabela de valores gerados pela célula de carga e os da prensa.
    
    
- ##### Figura 1 - Célula de carga tipo Z
-   
-   
-   ![](http://www.alfainstrumentos.com.br/wp-content/uploads/2016/07/Z-e-zx_pag.png)
-   
+  
+ <p align="center">
+ <b>Figura 1.</b>
+ <a href="#"> Célula de carga tipo Z</a> 
+ <br><br>
+<img src="http://www.alfainstrumentos.com.br/wp-content/uploads/2016/07/Z-e-zx_pag.png" width="400" heigth="400"> 
+</p> 
    
  ###### Fonte: http://www.alfainstrumentos.com.br/produto/z-e-zx/
  
  
- ##### Figura 2 - Driver HX711 
- 
-![](http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg)
+
+ <p align="center">
+ <b>Figura 2.</b>
+ <a href="#"> Driver HX711</a> 
+ <br><br>
+ <img src="http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg" width="400" heigth="400"> 
+ </p> 
 
  ###### Fonte: http://www.electronicspro.com.pk/wp-content/uploads/2017/11/hx711-load-cell-amplifier.jpeg
  
@@ -36,10 +42,14 @@
   
   x    --> Os valores da célula obtido pelo arduino
   
-  ##### Figura 3 - Resultados da regressão linear da calibração
    
- ![](https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/regressão%20lineaar%20dos%20valores.png)
-   
+    
+ <p align="center">  
+ <b>Figura 3.</b>
+ <a href="#">Resultados da regressão linear da calibração</a> 
+ <br><br>
+ <img src="https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/regressão%20lineaar%20dos%20valores.png" width="400" heigth="400"> 
+ </p> 
    
  
 ### 3. Como ler dados da célula de carga tipo Z
@@ -48,10 +58,14 @@
   
   A célula de carga deve estar posicionada verticamente ao esforço que prende-se coletar os dados e os quatros fios devem seguir o esquemático como mostra a figura 4.
   
-   ##### Figura 4 - Esquemático de ligações da célula com o arduino 
-   
-  ![](https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/ESQUEM%C3%81TICO.png)
   
+   
+ <p align="center">
+ <b>Figura 4.</b>
+ <a href="#">Esquemático de ligações da célula com o arduino </a> 
+ <br><br>
+ <img src="https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/ESQUEM%C3%81TICO.png" width="600" heigth="600"> 
+ </p> 
    
    
    #### 3.2 CÓDIGO
@@ -62,10 +76,14 @@
    
    Ao abrir o aplicativo do PLX no excel a seguinte janela conforme a figura 5 é aberta, você deve seleciona a porta COM em que o arduino está conectado no computador e depois selecionar a velocidade de transmissão (baund) que pode ser configurado no programa do enviado para o arduino. 
    
-   ##### Figura 5 - Esquemático de ligações da célula com o arduino
-   ![](https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/plx.png)
    
-  
+   
+ <p align="center">
+ <b>Figura 5.</b>
+ <a href="#">Esquemático de ligações da célula com o arduino</a> 
+ <br><br>
+ <img src="https://github.com/kaikecc/PRD_ELETRONICA/blob/master/C%C3%A9lula%20de%20Carga/Imagens/plx.png" width="600" heigth="600"> 
+ </p> 
   
   
   
